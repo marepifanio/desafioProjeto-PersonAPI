@@ -19,4 +19,4 @@ e o deploy foi realizado no Heroku associando a branch master da conta
 do GitHub.
 
 Aproveito para agradecer a Digital Innovation One e igualmente
-ao nosso instrutor desse projeto o @rpeleias-v1.
+ao nosso instrutor desse projeto o @rpeleias-v1
