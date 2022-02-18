@@ -1,4 +1,4 @@
-##Desafio de Projeto: Desenvolvendo um sistema de gerenciamento de pessoas em API Rest com Spring
+## Desafio de Projeto: Desenvolvendo um sistema de gerenciamento de pessoas em API Rest com Spring
 ###
 Neste desafio de projeto construímos uma API de gerenciamento de pessoas utilizando Spring Framework
 e as seguintes dependências:
